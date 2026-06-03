@@ -5,7 +5,6 @@
 # Module info
 
 - Name: mod-DualSpec
-- Module:
 - License: GNU General Public License v3.0
 
 # Description
