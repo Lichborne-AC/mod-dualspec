@@ -7,7 +7,7 @@
 - Name: Dual Spec Command
 - Module:
   + Repository: https://github.com/Lichborne-AC/mod-dualspec
-- License: AGPL v3
+- License: GNU General Public License v3.0
 
 # Description
 
