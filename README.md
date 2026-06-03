@@ -4,9 +4,8 @@
 
 # Module info
 
-- Name: Dual Spec Command
+- Name: mod-DualSpec
 - Module:
-  + Repository: https://github.com/Lichborne-AC/mod-dualspec
 - License: GNU General Public License v3.0
 
 # Description
